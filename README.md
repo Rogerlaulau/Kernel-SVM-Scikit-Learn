@@ -30,7 +30,3 @@ are processed to see which one results in best performance.
 Comparing the performance of the different types of kernels, it is clear that the sigmoid kernel performs the worst. This is due to the reason that sigmoid function returns two values, 0 and 1, therefore it is more suitable for binary classification problems. However, in this Iris dataset case, there are three output classes.
 
 Amongst the Gaussian kernel and polynomial kernel, we can see that polynomial kernel achieved a perfect 100% prediction rate while Gaussian kernel misclassified 2 instances. Therefore the polynomial kernel performed slightly better.
-
-
-
-https://stackabuse.com/implementing-svm-and-kernel-svm-with-pythons-scikit-learn/
