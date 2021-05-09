@@ -1,5 +1,7 @@
 This project demonstates two datasets in which different kernels are adopted
 
+Built SVM model with 3 different kernels to classify class of Iris flower and determined the best kernel (polynomial) that lead to 100% accuracy for the dataset with 150 samples. 
+
 # Simple SVM (linear problem)
 
 The task is to predict whether a bank currency note is authentic or not based on four attributes of the note.
